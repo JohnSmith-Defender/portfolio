@@ -6,19 +6,14 @@ import {
 	DiReact,
 	DiNodejs,
 	DiMongodb,
-	DiPython,
 	DiGit,
-	DiJava,
 } from "react-icons/di";
 import {
-	SiRedis,
 	SiTypescript,
 	SiNextdotjs,
 	SiSolidity,
-	SiPostgresql,
 	SiRedux,
 } from "react-icons/si";
-import { TbBrandGolang, } from "react-icons/tb";
 
 function Techstack() {
 	return (
