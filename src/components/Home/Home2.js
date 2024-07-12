@@ -18,7 +18,7 @@ function Home2() {
 							<br />
 							<br />I am fluent in programming languages like
 							<i>
-								<b className="purple"> C++, Javascript and Solidity. </b>
+								<b className="purple"> Javascript, Solidity, Typescript and C++. </b>
 							</i>
 							<br />
 							<br />
